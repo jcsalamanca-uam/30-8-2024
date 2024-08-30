@@ -1,0 +1,11 @@
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\bin\Debug\Sesion4.exe.config
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\bin\Debug\Sesion4.exe
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\bin\Debug\Sesion4.pdb
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\obj\Debug\Sesion4.csproj.AssemblyReference.cache
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\obj\Debug\Sesion4.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\obj\Debug\Sesion4.Properties.Resources.resources
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\obj\Debug\Sesion4.csproj.GenerateResource.cache
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\obj\Debug\Sesion4.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\obj\Debug\Sesion4.exe
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\obj\Debug\Sesion4.pdb
+C:\Users\labc202\Documents\Sesion4\Sesion4\Sesion4\obj\Debug\Sesion4.Form1.resources
